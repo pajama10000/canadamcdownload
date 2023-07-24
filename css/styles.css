@@ -54,7 +54,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #930d0d;
   text-align: left;
   background-color: #fff; }
 
@@ -130,7 +130,7 @@ sup {
   top: -.5em; }
 
 a {
-  color: #2c3e50;
+  color: #930d0d;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
@@ -173,7 +173,7 @@ table {
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #6c757d;
+  color: #742925;
   text-align: left;
   caption-side: bottom; }
 
@@ -347,7 +347,7 @@ hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
   border: 0;
-  border-top: 0.125rem solid rgba(0, 0, 0, 0.1); }
+  border-top: 0.125rem solid rgb(116, 182, 226); }
 
 small,
 .small {
@@ -357,7 +357,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color: #fcf8e3; }
+  background-color: #74b6e2; }
 
 .list-unstyled {
   padding-left: 0;
